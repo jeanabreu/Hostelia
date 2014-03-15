@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\bin\Debug\Hostelia.exe
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\bin\Debug\Hostelia.pdb
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\Hostelia.Login.resources
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\Hostelia.Properties.Resources.resources
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\Hostelia.exe
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\Hostelia.pdb
+\\psf\home\documents\visual studio 2010\Projects\Hostelia\Hostelia\obj\x86\Debug\Hostelia.app.dashboard.resources
